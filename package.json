@@ -1,0 +1,25 @@
+{
+  "name": "private-keys",
+  "version": "1.0.0",
+  "description": "Private keys generator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "private-keys": "./bin/index.js"
+  },
+  "keywords": [
+    "ethereum",
+    "private",
+    "keys",
+    "generator"
+  ],
+  "author": "appbak3r",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2",
+    "yargs": "^17.3.1"
+  },
+  "preferGlobal": true
+}
