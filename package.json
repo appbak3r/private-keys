@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Private keys generator",
   "main": "lib/index.js",
+  "homepage": "https://github.com/appbak3r/private-keys#readme",
+  "repository": "github:appbak3r/private-keys",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
