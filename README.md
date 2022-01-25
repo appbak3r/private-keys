@@ -2,6 +2,14 @@
 
 A simple command line utility to generate set of private keys and it's addresses.
 
+### Installation
+
+```
+npm i -g private-keys
+```
+
+### Usage
+
 ```
 private-keys [count]
 
@@ -13,7 +21,7 @@ Options:
   --version  Show version number                                       [boolean]
 ```
 
-Output example
+Output example:
 
 ```
 Private key: 0xa16791279754a6f10e93777c2e8c9fba5d61e5f0bb55e5ed8e05841317c179f4
